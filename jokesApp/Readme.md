@@ -1,1 +1,1 @@
-A chuck norris jokes app implemented using Spring web and Thymeleaf..
+A Chuck Norris jokes app implemented using Spring web and Thymeleaf..
